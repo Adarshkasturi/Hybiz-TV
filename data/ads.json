@@ -1,0 +1,29 @@
+[
+  {
+    "position": "header",
+    "image": "assets/sample/ads/header-728x90.jpg",
+    "link": "https://google.com/"
+  },
+  {
+    "position": "sidebar",
+    "image": "assets/sample/ads/sidebar-300x250.jpg",
+    "link": "https://hybiz.tv/"
+  },
+  {
+    "position": "footer",
+    "image": "assets/sample/ads/footer-728x90.jpg",
+    "link": "https://www.youtube.com/c/HYBIZTVHD"
+  },
+  {
+    "position": "corner-left",
+    "image": "assets/sample/ads/corner-160x600.jpg",
+    "link": "https://advertiser-site.com/left"
+  },
+  {
+    "position": "corner-right",
+    "image": "assets/sample/ads/corner-160x6001.jpg",
+    "link": "https://advertiser-site.com/right"
+  }
+]
+
+

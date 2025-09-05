@@ -1,0 +1,54 @@
+[
+    {
+    "id": "gadget-roundup",
+    "title": "Gadgets Roundup: Compact Cameras Make a Comeback",
+    "summary": "Phone fatigue pushes creators to pocketable shooters with big sensors.",
+    "category": "technology",
+    "author": "Hybiz Desk",
+    "date": "2025-10-02T11:10:00.000Z",
+    "images": ["pic1.jpg"],
+    "content": "Manufacturers are focusing on ergonomics, dedicated controls and long battery life. USB-C charging and direct-to-live features make them creator-friendly.Manufacturers are focusing on ergonomics, dedicated controls and long battery life. USB-C charging and direct-to-live features make them creator-friendly.Manufacturers are focusing on ergonomics, dedicated controls and long battery life. USB-C charging and direct-to-live features make them creator-friendly.Manufacturers are focusing on ergonomics, dedicated controls and long battery life. USB-C charging and direct-to-live features make them creator-friendly."
+  },
+  {
+    "id": "market-outlook-2025",
+    "title": "Market Outlook 2025: Tech Leads the Rebound",
+    "summary": "Analysts see enterprise AI and semiconductors driving growth next year.",
+    "category": "business",
+    "author": "Hybiz Desk",
+    "date": "2025-09-04T08:00:00.000Z",
+    "images": ["market.jpg", "ai-chips.jpg"],
+    "content": "Software and chips are expected to outperform broader indices as spending shifts to automation. CIO surveys point to sustained cloud optimization and GenAI pilots moving into production."
+  },
+  {
+    "id": "hybiz-food-fest",
+    "title": "City Hosts Hybiz Street Food Fest",
+    "summary": "Pop-ups from 40 homegrown brands bring new flavors downtown.",
+    "category": "food",
+    "author": "Hybiz Desk",
+    "date": "2025-09-03T15:30:00.000Z",
+    "images": ["text.png"],
+    "content": "From regional thalis to vegan bowls, the curation focused on fresh, local ingredients. Visitors also attended quick fire talks by chefs on sustainable cooking."
+  },
+  {
+    "id": "gadget-roundup",
+    "title": "Gadget Roundup: Compact Cameras Make a Comeback",
+    "summary": "Phone fatigue pushes creators to pocketable shooters with big sensors.",
+    "category": "technology",
+    "author": "Hybiz Desk",
+    "date": "2025-09-02T11:10:00.000Z",
+    "images": ["camera.jpg"],
+    "content": "Manufacturers are focusing on ergonomics, dedicated controls and long battery life. USB-C charging and direct-to-live features make them creator-friendly."
+  },
+  {
+    "id": "morning-wellness-routine",
+    "title": "A 7-Minute Morning Wellness Routine That Sticks",
+    "summary": "Breathwork, mobility and sunlight can reset your day.",
+    "category": "lifestyle",
+    "author": "Hybiz Desk",
+    "date": "2025-09-01T07:45:00.000Z",
+    "images": ["wellness.jpg"],
+    "content": "Experts suggest pairing short routines with habit cues like brewing coffee. Keep movements gentle and repeatable."
+  }
+]
+
+
