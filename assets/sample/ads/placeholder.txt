@@ -1,0 +1,2 @@
+Add your ad images here (e.g., 728x90, 300x250, 160x600). Update paths in data/ads.json.
+
