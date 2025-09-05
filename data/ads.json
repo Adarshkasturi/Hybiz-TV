@@ -17,13 +17,14 @@
   {
     "position": "corner-left",
     "image": "assets/sample/ads/corner-160x600.jpg",
-    "link": "https://advertiser-site.com/left"
+    "link": "https://hybiz.tv/"
   },
   {
     "position": "corner-right",
     "image": "assets/sample/ads/corner-160x6001.jpg",
-    "link": "https://advertiser-site.com/right"
+    "link": "https://google.com/"
   }
 ]
+
 
 
