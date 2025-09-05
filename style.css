@@ -56,7 +56,7 @@ a{color:inherit;text-decoration:none}
 }
 
 .brand-logo {
-  max-width: 500px;
+  max-width: 400px;
   height: auto;
   max-height: 200px;
 }
@@ -353,4 +353,5 @@ a{color:inherit;text-decoration:none}
   .article-container{grid-template-columns:2fr 1fr}
   .ad-corner{display:block}
 }
+
 
